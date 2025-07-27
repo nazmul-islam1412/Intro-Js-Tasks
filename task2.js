@@ -9,4 +9,4 @@ var total=(math + bio + chem + phy + bangla);
 
 var avg=total/5;
 
-console.log(avg.toFixed(2))
+console.log(avg.toFixed(2));
