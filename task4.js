@@ -2,4 +2,4 @@ var a = isNaN(‘11’);
 
 var a = isNaN(2-10);
 
-Both answer will be false
+Both answer will be false.Because there are isNaN.It will convert string to Number.
